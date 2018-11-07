@@ -1,4 +1,2 @@
-123qwe
-hello world!
-insert 123
-insert 234
+123
+qwe
